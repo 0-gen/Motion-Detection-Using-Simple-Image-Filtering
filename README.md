@@ -1,1 +1,1 @@
-[View the PDF](docs/EECE5639_Project1_KR_EF.pdf)
+[View the PDF](EECE5639_Project1_KR_EF.pdf)
