@@ -1,5 +1,3 @@
-## PDF Preview
-
 ![Page 1](readme_img/Motion%20Detection_page-0001.jpg)
 ![Page 2](readme_img/Motion%20Detection_page-0002.jpg)
 ![Page 3](readme_img/Motion%20Detection_page-0003.jpg)
